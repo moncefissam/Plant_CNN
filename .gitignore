@@ -57,6 +57,5 @@ __pycache__/
 *.env.local
 
 # Model files (too large for git - download separately)
-*.h5
 *.keras
 *.pkl
